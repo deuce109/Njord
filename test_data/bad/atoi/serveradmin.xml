@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="UTF-8"?>
+<adminTools>
+  <users>
+    <user platform="Any" userid="32154984106" name="testUserName" permission_level="bad" /> 
+  </users>
+</adminTools>
